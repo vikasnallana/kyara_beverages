@@ -1,8 +1,8 @@
-Steps to run the developed website :--
-
-step 1 : copy the git repository url \n
-step 2 : go to any code editor like VSCode clone the repo \n
-step 3 : In the terminal type "npm install"\n
-step 4 : in the terminal "npm run dev"\n
-
-The website will be opened in a browser tab
+<h2>Steps to Run the Developed Website:</h2>
+<ol>
+  <li>Copy the Git repository URL</li>
+  <li>Open any code editor like <strong>VS Code</strong> and clone the repository</li>
+  <li>In the terminal, type <code>npm install</code></li>
+  <li>Then, type <code>npm run dev</code> in the terminal</li>
+</ol>
+<p>The website will be opened in a browser tab by follwing the link.</p>
